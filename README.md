@@ -2,6 +2,7 @@
 Yotube Arin yazılım tailwind css eğitimi https://www.youtube.com/watch?v=vCgQcyCPH0Y&list=PL-Hkw4CrSVq-Oc898YeSkcHTAAS2K2S3f
 
 Projenin canlı linki:https://movie-tailwind-project.netlify.app/
+
 Site Resimleri:
 ![Site Resmi-1](https://user-images.githubusercontent.com/98158194/212398564-82530e96-013c-4f91-99b7-3cbb8ef56530.jpg)
 ![Site Resmi-2](https://user-images.githubusercontent.com/98158194/212398586-449bb355-cb2d-4c8e-bf21-4582628f5532.jpg)
