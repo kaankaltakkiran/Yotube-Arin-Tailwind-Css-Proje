@@ -20,4 +20,4 @@ npx tailwindcss -i ./input.css -o ./public/css/styles.css --watch
 <link href="./css/styles.css" rel="stylesheet">
 packe.json
 "watch": "npx tailwindcss -i ./input.css -o ./public/css/styles.css --watch"
-npm run watch
+npm run watch ile ayağa kaldırma
